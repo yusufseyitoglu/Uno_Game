@@ -1,0 +1,6 @@
+C:\Users\Yusa\source\repos\UnoGameSonHali\UnoGameSonHali\bin\Debug\UnoGameSonHali.exe.config
+C:\Users\Yusa\source\repos\UnoGameSonHali\UnoGameSonHali\bin\Debug\UnoGameSonHali.exe
+C:\Users\Yusa\source\repos\UnoGameSonHali\UnoGameSonHali\bin\Debug\UnoGameSonHali.pdb
+C:\Users\Yusa\source\repos\UnoGameSonHali\UnoGameSonHali\obj\Debug\UnoGameSonHali.csprojAssemblyReference.cache
+C:\Users\Yusa\source\repos\UnoGameSonHali\UnoGameSonHali\obj\Debug\UnoGameSonHali.exe
+C:\Users\Yusa\source\repos\UnoGameSonHali\UnoGameSonHali\obj\Debug\UnoGameSonHali.pdb
