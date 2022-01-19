@@ -1,2 +1,2 @@
 # Uno_Game
-c# ile uno game
+C# ile uno game
